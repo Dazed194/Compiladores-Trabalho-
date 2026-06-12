@@ -44,4 +44,3 @@ Para analisar um arquivo externo:
 
 - João Vítor Carvalho Barbosa
 - Murilo Silva Villarouca
-```
